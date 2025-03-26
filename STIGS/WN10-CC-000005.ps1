@@ -25,9 +25,6 @@
     PS C:\> .\STIG-ID-WN10-CC-000005.ps1 
 #>
 
-# YOUR CODE GOES HERE
-
-
 # Define the registry key path and value
 $regKeyPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Personalization"
 $regValueName = "NoLockScreenCamera"
