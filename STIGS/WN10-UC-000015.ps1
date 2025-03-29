@@ -24,19 +24,20 @@
     PS C:\> .\STIG-ID-WN10-UC-000015    
 #>
 
-# Define the registry path and the key value
-$registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\PushNotifications"
-$keyName = "NoCloudApplicationNotification"
-$keyValue = 1  # Equivalent to dword:00000001
+# Define the registry path and value
+$regPath = "HKCU:\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\PushNotifications"
+$regName = "NoToastApplicationNotification"
+$regValue = 1
 
-# Check if the registry path exists; if not, create it
-if (-not (Test-Path $registryPath)) {
-    New-Item -Path $registryPath -Force
+# Create the registry key path if it doesn't exist
+if (-not (Test-Path $regPath)) {
+    New-Item -Path $regPath -Force
 }
 
-# Set the registry key value
-Set-ItemProperty -Path $registryPath -Name $keyName -Value $keyValue -Type DWord
+# Set the registry value
+Set-ItemProperty -Path $regPath -Name $regName -Value $regValue -Type DWord
 
-Write-Host "Registry key set: $keyName = $keyValue"
+Write-Host "Registry key set successfully."
+
 
  
