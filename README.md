@@ -8,17 +8,42 @@ Through my projects, I aim to demonstrate practical security analysis, structure
 
 # **Core Security Focus Areas**
 
-- Threat Hunting: Hypothesis-driven investigations, suspicious activity analysis, endpoint telemetry, and threat behavior analysis.
-- Detection Engineering: SIEM queries, detection logic, alert validation, and false-positive analysis.
-- Incident Response: Event correlation, investigation timelines, incident scoping, and remediation recommendations.
-- Vulnerability Management: Risk prioritization, security configuration assessment, remediation, and validation.
-- Threat Intelligence: MITRE ATT&CK mapping, adversary behavior research, and intelligence-informed investigations.
+- **Threat Hunting:** Hypothesis-driven investigations, suspicious activity analysis, endpoint telemetry, and threat behavior analysis.
+- **Detection Engineering:** SIEM queries, detection logic, alert validation, and false-positive analysis.
+- **Incident Response:** Event correlation, investigation timelines, incident scoping, and remediation recommendations.
+- **Vulnerability Management:** Risk prioritization, security configuration assessment, remediation, and validation.
+- **Threat Intelligence:** MITRE ATT&CK mapping, adversary behavior research, and intelligence-informed investigations.
 
 
 # **Tools & Technologies**
-- Query & Scripting: KQL, Python, PowerShell, Bash
-- Security Monitoring: SIEM concepts, endpoint telemetry, Sysmon
-- Detection: Sigma rules, detection logic, alert tuning
-- Frameworks: MITRE ATT&CK
-- Security Practices: Incident response, vulnerability management, security hardening
-- Security Practices: Incident response, vulnerability management, security hardening
+- **Query & Scripting:** KQL, Python, PowerShell, Bash
+- **Security Monitoring:** SIEM concepts, endpoint telemetry, Sysmon
+- **Detection:** Sigma rules, detection logic, alert tuning
+- **Frameworks:** MITRE ATT&CK
+- **Security Practices:** Incident response, vulnerability management, security hardening
+
+# **Featured Projects**
+**1. Advanced Threat Hunting Lab**
+
+Hypothesis-driven threat investigations using security telemetry, KQL queries, event correlation, MITRE ATT&CK mapping, and documented findings.
+
+**2. Detection Engineering & SIEM Analytics**
+
+Development and validation of detection rules, security analytics, test cases, and investigation runbooks.
+
+**3. Incident Response & Digital Forensics**
+
+Incident investigation, evidence correlation, timeline reconstruction, incident scoping, and remediation planning.
+
+**4. Vulnerability Management & Security Automation**
+
+Risk-based vulnerability prioritization, automated reporting, remediation workflows, and validation scripts.
+
+
+# **My Approach to Cybersecurity**
+I believe effective cybersecurity requires curiosity, critical thinking, evidence-based decisions, and continuous improvement. I aim to develop practical, reproducible security solutions while strengthening my ability to investigate threats, communicate findings, and recommend effective remediation.
+
+# **Connect With Me**
+- **GitHub:** @hullerbd
+- **LinkedIn:** (https://www.linkedin.com/in/agbolade-oyebanjo/)
+  
