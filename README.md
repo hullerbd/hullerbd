@@ -9,16 +9,16 @@ Through my projects, I aim to demonstrate practical security analysis, structure
 # **Core Security Focus Areas**
 
 - Threat Hunting: Hypothesis-driven investigations, suspicious activity analysis, endpoint telemetry, and threat behavior analysis.
--Detection Engineering: SIEM queries, detection logic, alert validation, and false-positive analysis.
--Incident Response: Event correlation, investigation timelines, incident scoping, and remediation recommendations.
--Vulnerability Management: Risk prioritization, security configuration assessment, remediation, and validation.
--Threat Intelligence: MITRE ATT&CK mapping, adversary behavior research, and intelligence-informed investigations.
+- Detection Engineering: SIEM queries, detection logic, alert validation, and false-positive analysis.
+- Incident Response: Event correlation, investigation timelines, incident scoping, and remediation recommendations.
+- Vulnerability Management: Risk prioritization, security configuration assessment, remediation, and validation.
+- Threat Intelligence: MITRE ATT&CK mapping, adversary behavior research, and intelligence-informed investigations.
 
 
 # **Tools & Technologies**
-Query & Scripting: KQL, Python, PowerShell, Bash
-Security Monitoring: SIEM concepts, endpoint telemetry, Sysmon
-Detection: Sigma rules, detection logic, alert tuning
-Frameworks: MITRE ATT&CK
-Security Practices: Incident response, vulnerability management, security hardening
-Security Practices: Incident response, vulnerability management, security hardening
+- Query & Scripting: KQL, Python, PowerShell, Bash
+- Security Monitoring: SIEM concepts, endpoint telemetry, Sysmon
+- Detection: Sigma rules, detection logic, alert tuning
+- Frameworks: MITRE ATT&CK
+- Security Practices: Incident response, vulnerability management, security hardening
+- Security Practices: Incident response, vulnerability management, security hardening
