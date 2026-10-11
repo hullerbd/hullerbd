@@ -8,8 +8,7 @@ Through my projects, I aim to demonstrate practical security analysis, structure
 
 # **Core Security Focus Areas**
 
-Core Security Focus Areas
--Threat Hunting: Hypothesis-driven investigations, suspicious activity analysis, endpoint telemetry, and threat behavior analysis.
+- Threat Hunting: Hypothesis-driven investigations, suspicious activity analysis, endpoint telemetry, and threat behavior analysis.
 -Detection Engineering: SIEM queries, detection logic, alert validation, and false-positive analysis.
 -Incident Response: Event correlation, investigation timelines, incident scoping, and remediation recommendations.
 -Vulnerability Management: Risk prioritization, security configuration assessment, remediation, and validation.
