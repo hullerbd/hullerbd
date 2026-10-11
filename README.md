@@ -1,4 +1,4 @@
-Cybersecurity Professional | Threat Hunting | Detection Engineering
+# **Cybersecurity Professional | Threat Hunting | Detection Engineering**
 
 I am a cybersecurity practitioner focused on threat hunting, security operations, detection engineering, and incident response. My work centers on investigating suspicious activity, analyzing security telemetry, identifying potential threats, and translating findings into actionable detection and remediation strategies.
 
